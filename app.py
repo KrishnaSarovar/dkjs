@@ -75,7 +75,7 @@ INSERT INTO Books VALUES
  (3, 'C# Programming', 'Andrew Troelsen','Apress', '978-1-4842-3018-3', 2017, 5, 599.00),
  (4, 'Core Java', 'Cay Horstmann', 'Pearson', '978-0-13-516630-7', 2019, 12, 399.00),
  (5, 'Ruby on Rails', 'Michael Hartl', 'Pearson', '978-0-13-445445-7', 2016, 6, 349.00),
- (6, 'Artificial Intelligence','Stuart Russell', 'Pearson', '978-0-13-461099-3', 2020, 4, 649.00)'''
+ (6, 'Artificial Intelligence','Stuart Russell', 'Pearson', '978-0-13-461099-3', 2020, 4, 649.00)''',
     "12": '''Stored Procedures
 Query's:
 1. Create a Stored Procedure to Display All Students.
