@@ -1,5 +1,5 @@
 import streamlit as st
-import pyperclip
+
 
 assignments = {
     "1" : '''CREATE DATABASE Krishna;
