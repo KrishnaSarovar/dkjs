@@ -4,7 +4,7 @@ st.set_page_config(page_title="File Downloader")
 
 st.title("Download My Python File")
 
-with open("code.py", "rb") as file:
+with open("Code.py", "rb") as file:
     st.download_button(
         label="📥 Download code.py",
         data=file,
