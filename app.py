@@ -8,6 +8,6 @@ with open("code.py", "rb") as file:
     st.download_button(
         label="📥 Download code.py",
         data=file,
-        file_name="code.py",
+        file_name="Code.py",
         mime="text/x-python"
     )
