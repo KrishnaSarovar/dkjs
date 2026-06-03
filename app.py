@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="File Downloader")
 
-st.title("Download My Python File")
+
 
 with open("Code.py", "rb") as file:
     st.download_button(
